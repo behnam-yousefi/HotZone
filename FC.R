@@ -1,5 +1,5 @@
 ## Plot persistant homology
-
+# Newkdfpod
 Thr = seq(.02,.15,.01)
 
 FC1 = matrix(0,Ninv1,length(Thr))
